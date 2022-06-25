@@ -2,8 +2,8 @@
 A simple bash terminal styled widget for Übersicht.  
 I saw a really cool terminal widget for the desktop by [vecnehladny](https://github.com/vecnehladny), and thought that I could learn a thing or two by trying to customise it as much as I could, to suit my needs.
 
-![Screenshot](screenshot-1.png)
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot-1.png)
+![Screenshot](Screenshot.png)
 
 ## Features
 **Clock**  

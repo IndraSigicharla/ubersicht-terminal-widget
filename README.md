@@ -3,7 +3,7 @@ A simple bash terminal styled widget for Übersicht.
 I saw a really cool terminal widget for the desktop by [vecnehladny](https://github.com/vecnehladny), and thought that I could learn a thing or two by trying to customise it as much as I could, to suit my needs.
 
 ![Screenshot](ss1.png)
-![Screenshot](ss.png)
+![Screenshot](screenshot.png)
 
 ## Features
 **Clock**  

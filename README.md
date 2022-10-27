@@ -32,7 +32,8 @@ git clone https://github.com/IndraSigicharla/ubersicht-terminal-widget ~/Library
 
 ## Requirements
 1. Übersicht, of course.
-2. To make the icons appear properly, I recommend having a Nerd Font installed, especially [Fira Code](https://github.com/ryanoasis/nerd-fonts) Nerd font.
+2. You need to have command line developer tools installed on your Mac. (which will be auto-installed the first time you run the command above)
+3. To make the icons appear properly, I recommend having a Nerd Font installed, especially [Fira Code](https://github.com/ryanoasis/nerd-fonts) Nerd font.
 
 ## Customization
 You can set brightness of the neon effect, and you can edit the CSS to customise the widget in any other way.
